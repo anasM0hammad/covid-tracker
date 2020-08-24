@@ -1,0 +1,29 @@
+.cursive-font{
+	font-family: 'Lobster', cursive;
+}
+
+.dark{
+	background-color: #343A40;
+}
+
+.circle-border-left{
+	border-top-left-radius: 15px ;
+	border-bottom-left-radius: 15px ;
+}
+
+.circle-border-right{
+	border-top-right-radius: 15px ;
+	border-bottom-right-radius: 15px ;
+}
+
+.no-border{
+	border: solid 0 black ;
+}
+
+.row{
+	font-family: 'Russo One', sans-serif; 
+}
+
+th{
+	cursor: pointer;
+}
